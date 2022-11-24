@@ -1,0 +1,11 @@
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\bin\Debug\InternetBrowser.exe.config
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\bin\Debug\InternetBrowser.exe
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\bin\Debug\InternetBrowser.pdb
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.csproj.AssemblyReference.cache
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.csproj.SuggestedBindingRedirects.cache
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.Form1.resources
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.Properties.Resources.resources
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.csproj.GenerateResource.cache
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.csproj.CoreCompileInputs.cache
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.exe
+C:\Users\mafte\source\repos\InternetBrowser\InternetBrowser\obj\Debug\InternetBrowser.pdb
